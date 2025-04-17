@@ -92,6 +92,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-bottom: 120px;
 }
 .infobox .m {
     margin-right: 10px;
@@ -106,4 +107,25 @@
     width: 100px;
     height: 100px;
     margin-top: 3px;
+}
+.quote {
+    width: 100%;
+    height: 450px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.quote p {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    width: 715px;
+    height: 150px;
+}
+.quote h1 {
+    font-size: 25px;
+    margin-left: 455px;
+    font-weight: 650;
 }

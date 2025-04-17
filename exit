@@ -1,0 +1,23 @@
+[33mcommit 73cb437622600abfa2dfe175ee9e522bb4040f6e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Valentin <197127997+demnep@users.noreply.github.com>
+Date:   Thu Apr 17 20:17:03 2025 +0200
+
+    Added information section and added style to it
+
+[33mcommit 1097b2c5c61f4fb715cf7bcb9c60046012732fe9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Valentin <197127997+demnep@users.noreply.github.com>
+Date:   Thu Apr 17 19:39:43 2025 +0200
+
+    Added header and style to it.
+
+[33mcommit f5ccbfb64da46f880efc6d57f1400bdd2e3536ce[m
+Author: Valentin <197127997+demnep@users.noreply.github.com>
+Date:   Sat Apr 12 14:53:03 2025 +0200
+
+    Added index.html and style.css files
+
+[33mcommit a7b02216da26d30e6d1e319eaec11582a822a836[m
+Author: demnep <197127997+demnep@users.noreply.github.com>
+Date:   Sat Apr 12 14:47:24 2025 +0200
+
+    Initial commit
